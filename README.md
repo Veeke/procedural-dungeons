@@ -1,5 +1,5 @@
 # procedural-dungeons
-A Mystery Dungeon inspired project
+A Mystery Dungeon inspired project made in Godot 4.2
 
 Current features:
 
